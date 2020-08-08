@@ -3,7 +3,7 @@
 JMess can save an XML file with all the current [Jack Audio](http://jackaudio.org/) connections. This same file can be loaded to connect everything again. The XML file can also be edited. It also also has the option to disconnect all the clients.
 
 ## Download and Installation ##
-There is a Linux and a Mac OS X version of JMees. To install just download, uncompress, and follow the instrunctions on `INSTALL.txt`.
+There is a Linux and a Mac OS X version of JMess. To install just download, uncompress, and follow the instrunctions on `INSTALL.txt`.
 
 ## Using JMess ##
 
